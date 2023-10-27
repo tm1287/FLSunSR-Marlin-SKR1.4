@@ -82,6 +82,7 @@ tags
 #
 # Object files
 *.o
+!FirmwarePatches/*.o
 *.ko
 *.obj
 *.elf
